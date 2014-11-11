@@ -193,7 +193,7 @@
     };
 
     lunr.ar.stopWordFilter.stopWords = new lunr.SortedSet();
-    lunr.ar.stopWordFilter.stopWords.length = 282;
+    lunr.ar.stopWordFilter.stopWords.length = 325;
 
     // The space at the beginning is crucial: It marks the empty string
     // as a stop word. lunr.js crashes during search when documents
