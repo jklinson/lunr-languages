@@ -203,4 +203,5 @@
 
     lunr.Pipeline.registerFunction(lunr.ar.stopWordFilter, 'stopWordFilter-ar');
   };
-}))
+}));
+
